@@ -1,0 +1,157 @@
+{"Data": [
+  {"tag": "Selam",
+    "patterns" : ["Merhaba", "Naber","Selam","Hey","Dear Deer","Dear"],
+    "responses" : ["Merhaba, size nasıl yardımcı olabilirim?"]
+  },
+  {
+    "tag": "Teşekkür",
+    "patterns" : ["Teşekkür ederim" , "Çok sağ ol","teşekkürler" ],
+    "responses" : []
+  },
+  {
+    "tag": "Görüşürüz",
+    "patterns" : ["Hoşçakal","Görüşürüz", "Bye","Güle güle",""],
+    "responses" : ["Görüşmek üzere, başka bir sorunuz olursa ben her zaman buradayım ;)"]
+  },
+  {
+    "tag": "İsim",
+    "patterns" : ["Senin adın ne?", "Sen nesin?", "İsmin nedir?","Adın nedir","İsmini söyler misin?","Kendini nasıl tanımlarsın?"],
+    "responses" : ["Benim adım Dear Deer, Hacettepe üniversitesi Bilgisayar ve Yapay Zeka Mühendisliği için geliştirilmiş bir chatbotum."]
+  },
+  {
+    "tag": "Bölüm",
+    "patterns" : [],
+    "responses" : []
+  },
+  {
+    "tag": "Staj",
+    "patterns" : ["Staj için gerekli belgeler nedir?","Bir yaz döneminde 2 staj yapabilir miyim?","Staj için neler gerekli?","Herhangi bir yerde staj yapabilir miyim","Staj raporunda neler gerekli","1.sınıfta staj yapabilir miyim?","Dönemiçi stajlar saydırılabilir mi","Gönüllü yaptığım staj ders yerine sayılır mı"],
+    "responses" : ["1. STAJ ÖNCESİ\n1.1. Staj Yerinin Ayarlanması\n● Bölüm öğrencileri lisans öğrenimleri boyunca 60 iş günü staj yapmak zorundadırlar.\n● Staj zamanları 2. Sınıf Yaz Dönemi ve 3. Sınıf Yaz Dönemi olarak belirlenmiştir. Bu staj\ndönemleri öğrencinin durumuna göre farklılık gösterebilir (4. Sınıf yazı gibi). Ancak 1. sınıfta staj\nyapılamaz.\n● Stajların 30’ar iş gününden iki farklı kurumda yapılması öngörülmektedir. Bu süreler 20’şer\niş gününe de bölünebilir. Daha kısa sürelerde staj yapılması öğrenci için faydalı olmayacaktır ve\nbölüm tarafından kabul edilmemektedir.\n● Bölüme bazı şirketler tarafından staj duyuruları gönderilmektedir. Bu duyurular, ders\nPiazza sayfasından ya da lisans-duyuru ile mail üzerinden paylaşılacaktır. Bu istekler dışındaki staj\nbaşvurularını öğrenci, şirketlere kendisi yapmak durumundadır.\n● Yazın yapılacak stajlar için Ocak - Nisan ayları arasında staj başvurularının yapılması\ntavsiye edilmektedir. Yaz döneminin başlangıcıyla birlikte stajyer kontenjanları çoğunlukla\ndolmaktadır.\n● Staj yapılacak kurumda en az bir bilgisayar mühendisi ya da elektrik-elektronik mühendisi\nbulunmak zorundadır. Stajla ilgili sonuç belgeleri bu kişiler tarafından doldurulacaktır.\n1.2. Staj Öncesi Belgelerin Hazırlanması\n● Staj yapacak öğrenciler, stajları süresince üniversite tarafından sigortalanmaktadır. Bu\nişlemin yapılabilmesi için öğrenci ve kurumlar tarafından ilgili belgelerin hazırlanması\ngerekmektedir.\n● Öncelikle http://www.muhfak.hacettepe.edu.tr adresindeki Staj Dosyası bölümünde yer\nalan staj uygulama esasları mutlaka okunmalıdır.\nİş yerine başvuru ve kabul formu: Bu belge, öğrenci tarafından doldurulup staj yapılacak kuruma\nonaylatıldıktan sonra teslim alınacak ve bölüme verilecektir.\nBeyan ve Taahhütname: Staj yapacak öğrenci için üniversite tarafından Sosyal Güvenlik Kurumu’na\ntescil bildiriminde bulunulmadan önce, öncelikle öğrencinin ailesinden bakılmakla\nyükümlü olunan kişi durumunda olup olmadığının tespit edilmesi gerekmektedir. Bunun için\nöğrencinin Beyan ve Taahhüt Belgesi vermesi gerekmektedir.\n● Öğrencinin ailesi tarafından bakılmakla yükümlü olunan (ailesinden biri üzerinden sağlık\nkarnesi almış veya sağlık giderleri bu kişinin sigortası üzerinden karşılanan) kişi durumunda\nolması halinde Beyan ve Taahhütname (Sağlık Hizmeti Alan) belgesini doldurup imzalayarak\nbölüme teslim etmesi gerekmektedir.\n● Öğrencinin ailesi tarafından bakılmakla yükümlü olunan kişi durumunda olmaması halinde\nise Beyan ve Taahhütname (Sağlık Hizmeti Almayan) belgesini doldurup imzalayarak bölüme teslim\netmesi gerekmektedir.\n● İstenen belgeler staj başlangıç tarihinden en az 20 gün önce bölüme teslim edilmelidir.\n2. STAJ SONRASI\n2.1. Staj Raporunun Hazırlanması ve Teslim Edilmesi\n● Staj raporunun hazırlanması ile ilgili ayrıntılı bilgi “StajRaporuDuzeni.pdf” adlı belgede yer\nalmaktadır.\n● Staj raporları elektronik ortamda teslim edilmektedir. Staj ile ilgilenen görevli tarafından\naçılacak teslim sistemi ya da e-posta yoluyla teslimler alınacaktır. Teslim tarihi bölüm haber\ngrubunda ya da panolarda ilan edilecektir.\n2.2. Staj Sonu Belgelerinin Hazırlanması ve Teslim Edilmesi\n2.2.1. Staj Sonuç Belgesi\n● Öğrenci stajını tamamladıktan sonra, kurumdaki staj sorumlusu tarafından Staj Sonuç\nBelgesi doldurulup imzalandıktan sonra kapalı ve mühürlü/kaşeli zarfta bölüme gönderilir (öğrenci\nile ya da posta yoluyla). Bu zarf öğrenci tarafından kesinlikle açılmamalıdır. Belgedeki bilgilerin\neksik olmaması için staj sorumlusu mutlaka uyarılmalıdır.\n2.2.2. Staj Raporu Değerlendirme Belgesi\n● Kurumdaki staj sorumlusu, öğrencinin staj raporunu inceledikten sonra Staj Raporu\nDeğerlendirme Belgesi’ni doldurup imzalayacak ve kaşeleyecektir. Bu belgeyi teslim etmeyen\nöğrencinin staj raporu teslim edilmemiş sayılacaktır. Belgedeki bilgilerin eksik olmaması için staj\nsorumlusu mutlaka uyarılmalıdır\nÖNEMLİ DUYURULAR\n- Pandemi sebebiyle stajını uzaktan yapan öğrenciler, uzaktan staj yapıldığına dair staj yaptıkları\nkurum onaylı (imzalı ve kaşeli) bir yazı/dilekçe teslim etmeliler.\n- Mezun durumunda olmayan öğrenciler staj belgelerini staj koordinatörlüğünün ilgili ders dönemi\nbaşladıktan sonra Piazza üzerinden yapacağı teslim duyurusuna kadar saklamaları\ngerekmektedir.\n- Mezun durumundaki öğrenciler staj bitiminden sonra transkriptleriyle birlikte staj belgelerini staj\nkoordinatörlüğüne iletmeliler.\n- Ekle-sil haftasının sonuna kadar staj yapılabilir.\n- Ders döneminde yapılan stajlar kabul edilmemektedir.\n- Mezun durumundaki öğrenciler, ilgili dönemde yalnızca staj dersi kodladıysa (staj dersi dışında\nbaşka ders alınmaması koşulu ile) ders döneminde staj yapabilir.\n- Stajların tam zamanlı ve ardışık günlerde yapılması gerektiğinden aday mühendislikler staj olarak\nsayılmaz.\n- Staja başlamak için en erken tarih ders döneminin bitimini takip eden gündür. Final haftasında\nstaja başlanamaz.\n- Staj dersi kodlanmadan staj dersi saydırılamaz.\n- Tatil günlerinde de staj yapılması durumunda staj yapılan kurumdan tatil günlerinde staj\nyapıldığına dair kurum onaylı (imzalı ve kaşeli) bir yazı/dilekçe teslim etmeliler.\n- 6 ve üzeri dönem öğrenciler aynı yaz döneminde 2 staj dersine ait 60 iş günlük stajlarını\ntamamlayabilirler.\n- Sigorta işlemlerinin başlaması için staj öncesi belgeleri (\"işyerine başvuru ve kabul formu\" ile\n\"beyan ve taahhütname\") sekreterliğe teslim edilmeli.\n- Sigortanın, okul tarafından karşılanması istenmiyorsa (staj sigortası şirket tarafından\nkarşılanacaksa) sigorta için gerekli staj öncesi belgeleri teslimine gerek yoktur.\n- Stajların, Yaz Okulu ile çakışması durumunda staja başlamadan staj koordinatörlüğü ile iletişime\ngeçilmesi gerekmektedir.\n- Çok disiplinli staj yapılamayacak olması durumunda, stajın kabulü için forma ek olarak, öğrenci\ntarafından hazırlanan gerekçeli dilekçenin öğrenci danışmanı ve staj koordinatörüne\nonaylatılması ve bölüme teslim edilmesi gerekmektedir. Danışman ve koordinatör gerekçeyi\nuygun bulup imzalarsa staj kabul olur.\n- Staj Yönergesindeki staj koşulları sağlandığı sürece yurtdışında staj yapılabilir. Ancak staj\nyapılacak kurumun Türkiye’de merkezi yoksa sigorta okul tarafından karşılanmaz.\n- Sigorta işlemleri ile sorunlar için Sağlık, Kültür ve Spor Dair Başkanlığı (SKS) birimiyle iletişim\nkurulmalı, staj koordinatörlüğüyle değil."]
+  },
+  {
+    "tag": "SEC",
+    "patterns" : ["Mezun olmak için kaç SEC kodlu ders almam gerekiyor ?", "SEC kodlu derslerden kaç tane alabilirim",""],
+    "responses" : []
+  },
+  {
+    "tag" : "Seçmeli ders",
+    "patterns" : [],
+    "responses" : []
+  },
+  {
+    "tag" : "Başarısız Zorunlu Ders",
+    "patterns" : [],
+    "responses" : []
+  },
+  {
+    "tag" : "Başarısız Seçmeli Ders",
+    "patterns" : [],
+    "responses" : []
+  },
+  {
+    "tag" : "Teknik Seçmeli Ders",
+    "patterns" : [],
+    "responses" : []
+  },
+  {
+    "tag" : "Mezun",
+    "patterns" : ["Mezun olmak için neler gerekli ?",
+      "Mezun olmak için kaç AKTS almam gerekiyor" ,
+      "Okulu bitirebilmek için kaç krediye ihtiyacım var?",
+      "Mezun olma şartları nelerdir",
+      ""],
+    "responses" : ["Bu gereklilik ve kurallar, 26.03.2018 tarih ve 30372 sayılı Resmi Gazete`de yayımlanarak yürürlüğe girmiş olan H.Ü. Önlisans, Lisans Eğitim-Öğretim ve Sınav Yönetmeliği Madde 30`da (Mezuniyet) belirtilmiştir.Bilgisayar Mühendisliği Bölümü`nden mezun olmak için 240 AKTS`yi (142 ulusal krediyi) tamamlamış ve dörtlük sisteme göre en az 2,00 genel akademik ortalama elde etmiş olmak gerekmektedir. Öğrencilerimizin mezun olabilmeleri için, iki tane dört haftalık zorunlu stajı tamamlamış olmaları gerekmektedir."]
+  },
+  {
+    "tag" : "Hocalar",
+    "patterns" : [],
+    "responses" : []
+  },
+  {
+    "tag" : "Dersler",
+    "patterns" : [],
+    "responses" : []
+  },
+
+  {
+    "tag": "Erasmus",
+    "patterns" : ["Erasmus programı kapsamında ücret ödüyor muyuz?",
+      "Erasmus için ortalamamın en az kaç olması gerekiyor?",
+      "Bölümümün erasmus programı var mı?",
+      "Erasmusa başvurmak için neler gerekli?",
+      "Yüksek lisans okurken erasmus yapabilir miyim ?",
+      "Erasmus programı için Lisans programında mı olmak lazım?",
+      "Doktora ya da yüksek lisans okurken erasmus yapabilir miyim ?",
+      "Zorunlu stajımı erasmus ile yurt dışında yapabilir miyim ?",
+      "Son senemde erasmus yapabilir miyim ?",
+      "Artık yılda okurken Erasmus yapabilir miyim ?",
+      "Daha önce erasmusa katılmış birisi tekrardan katılabilir mi",
+      "Erasmus yapmış olsam da tekrardan yapabilir miyim ?",
+      "Her bölüm için Erasmus geçerli mi?",
+      "Erasmus programına hangi ülkeler dahil",
+      "Hangi ülkeler erasmus programında?"],
+    "responses" : ["Bölümümüzün 2022/2023 senesi Erasmus programı aşağıdaki gibidir;\n\t\t\tUniversity\t\t\t\tCountry\t\tEnd Date\tProgramme\tDuration\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tBSc/Msc\tPhD\nUniversidad De Castilla-La Mancha\tSpain\t\t2022/2023\t2\tX\t\t1 academic year\nHumboldt-Universität zu Berlin\t\tGermany\t\t2022/2023\t2\tX\t\t1 academic year\nAlbert Ludwigs Universität Freiburg\tGermany\t\t2022/2023\t3\t\t1 term\nUniversität Marburg\t\t\t\t\tGermany\t\t2022/2023\t2\tX\t\t1 academic year\nUniversita Degli Studi di Milano\tItaly\t\t2022/2023\t4\t\t1 term\nCzestochowa University of Technology\tPoland\t2022/2023\t1\tX\t\t1 term\nStefan Cel Mare University of Suceava (Engineering Faculty-Common Aggreement)\tRomania\t2022/2023\t2\tX\t\t1 term\nDaha fazla bilgi için http://www.abofisi.hacettepe.edu.tr/ bu sayfayı ziyaret edebilirsiniz."]
+  },
+  {
+    "tag": "Dream-Araştırma (Daha kapsamlı olmalı)",
+    "patterns" : ["Bu sene hangi hocalar Dream projesi veriyor","Dream projesi nedir ?","Dream projesinde hangi hocalar sorumlu","Dream projesinde projeler var","Lisans araştırmasına nasıl başvurabilirim", "Dream projesine kimler başvurabilir"],
+    "responses" : ["Lisans Araştırma Deneyimi Programı (DREAM), Hacettepe Üniversitesi Bilgisayar Mühendisliği Bölümü'nde öğrenim gören lisans öğrencilerine öğretim üyelerinin rehberliğinde araştırma projelerine katılma fırsatı vererek araştırma deneyimlerini kolaylaştırmakta ve araştırmayı potansiyel bir kariyer olarak görmelerini teşvik etmektedir.\nDream projesi hakkında daha fazla bilgi almak ya da başvurmak için aşağıdaki linki kullanabilirsiniz\nhttps://dream.cs.hacettepe.edu.tr/apply.html"]
+  },
+  {
+    "tag": "Ders Program",
+    "patterns" : ["Yapay zeka mühendisliği ders programı","Bilgisayar Mühendisliği ders programı nasıl","2022/2023 yılı ders programı","Ders programı nedir?","Bu seneki ders programı nasıl"],
+    "responses" : ["2022/2023 Yapay Zeka ve Bilgisayar Mühendisliği ders programlarına aşağıdaki linkten ulaşabilirsiniz\nhttps://docs.google.com/spreadsheets/d/1SBvl4LNG0y2AkHmFidDA6Y_onDrxhdHnzIzB-0EjGEw/edit#gid=0"]
+  },
+  {
+    "tag" : "Sınav takvimi (Ders bazlı olabilir)",
+    "patterns" : [],
+    "responses" : []
+  },
+  {
+    "tag": "Hazırlık",
+    "patterns" : [],
+    "responses" : []
+  },
+  {
+    "tag": "Yandal-Çiftdal",
+    "patterns" : [],
+    "responses" : []
+  },
+  {
+    "tag": "Kampüs İmkanları",
+    "patterns" : [],
+    "responses" : []
+  },
+  {
+    "tag": "Ulaşım",
+    "patterns" : [],
+    "responses" : []
+  },
+  {
+    "tag": "Sosyal",
+    "patterns" : [],
+    "responses" : []
+  },
+  {
+    "tag": "Topluluk",
+    "patterns" : [],
+    "responses" : []
+  },
+  {
+    "tag": "Yemekhane)",
+    "patterns" : ["Bugün yemekhanede ne var?","Bugün ne yemek var?","Beytepe yemekhanesinde hangi yemek var","Bugün öğle yemeği ne?","Sıhhiye yemekhanesinde akşam yemeği ne?","Yemekhanede ne var"],
+    "responses" : ["Bugün (16.12.2022) Yemekler :\nYayla Çorbası (A*D*C)\nFırın Patates (A)\nHavuç Salata\nMeyve\n*Etsiz Patates (A)\nKalori : 1051\nDiğer günler için http://www.sksdb.hacettepe.edu.tr/bidbnew/grid.php?parameters=qbapuL6kmaScnHaup8DEm1B8maqturW8haidnI%2Bsq8F%2FgY1fiZWdnKShq8bTlaOZXq%2BmwWjLzJyPlpmcpbm1kNORopmYXI22tLzHXKmVnZykwafFhImVnZWipbq0f8qRnJ%2BioF6go7%2FOoplWqKSltLa805yVj5agnsGmkNORopmYXam2qbi%2Bo5mqlXRrinJdf1BQUFBXWXVMc39QUA%3D%3D sayfasını ziyaret edebilirsiniz :)"]
+  },
+  {
+    "tag": "Yaz Okulu (Daha kapsamlı olabilir)",
+    "patterns" : ["Bu sene yaz okulunda hangi dersler açılacak ?","Yaz okulunda hangi dersler var?","Kaldığım bütün dersleri yaz okulunda alabilir miyim?","Her ders yaz okulunda açılıyor mu?","Notumu yükseltmek için yaz okulundan ders alabilir miyim","Yaz okulu ücretleri ne kadar?","Yaz okulu ne kadar","Yaz okulu fiyatı nedir?","Yaz okuluna nasıl kayıt olabilirim ?"],
+    "responses" : ["Yaz Okulu süresi 6 haftadır ve eğitim şekli yüz yüzedir.\nÖğrencilerimiz ders kayıt haftasında Öğrenci Bilgi Sistemi (https://bilsis.hacettepe.edu.tr/) ders kayıt programına giriş yaparak, yaz okulunda açılan dersler listesinden en fazla 3 ders alabilirler.\nÖğrencilerin, ders kayıt programında hesaplanan, seçilen derslerin toplam ücretini ayın hafta içinde ilgili bankaya yatırması ve ardından aynı sistem üzerinden dersleri kesinleştirme işlemi yapmaları gerekir.\nDerslere minimum devam zorunluluğu öğrencilerin daha önce alıp başarısız olduğu ancak devam koşulunu yerine getirdiği derslerde %50, bu durumun dışındaki tüm derslerde %70’dir.\nDers seçiminde alınan derslerin önkoşul şartlarına dikkat edilmesi gerekir.\nDers kayıt haftası sonunda, ders alan öğrenci sayılarına göre derslerin açılma/açılmama durumları kesinleşir. Asgari öğrenci sayısına sahip olmadığı için açılmayan derslere kayıt yapan öğrencilerin üzerinden dersler silinir ve ücret iadesi yapılır."]
+  },
+  {
+    "tag": "",
+    "patterns" : [],
+    "responses" : []
+  }
+
+]
+}

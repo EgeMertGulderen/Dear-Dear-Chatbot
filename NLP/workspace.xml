@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54329571-305e-4756-8713-d80bb6c20839" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2J29okSOchWEPHJPuNdiXZu9ttI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\treme\IdeaProjects\NlpTest\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="myTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.myTest" />
+      <module name="NlpTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.myTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54329571-305e-4756-8713-d80bb6c20839" name="Changes" comment="" />
+      <created>1671265487469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671265487469</updated>
+      <workItem from="1671265488544" duration="892000" />
+      <workItem from="1671266397185" duration="18000" />
+      <workItem from="1671266425314" duration="1069000" />
+      <workItem from="1671268304190" duration="349000" />
+      <workItem from="1671268701575" duration="403000" />
+      <workItem from="1671269289218" duration="315000" />
+      <workItem from="1671269634102" duration="259000" />
+      <workItem from="1671304934029" duration="575000" />
+      <workItem from="1671330364894" duration="1121000" />
+      <workItem from="1671356422177" duration="12463000" />
+      <workItem from="1671376856217" duration="685000" />
+      <workItem from="1671381213713" duration="8349000" />
+      <workItem from="1671397634274" duration="394000" />
+      <workItem from="1671437131422" duration="1030000" />
+      <workItem from="1671465882956" duration="4038000" />
+      <workItem from="1671522774105" duration="619000" />
+      <workItem from="1671530664438" duration="3477000" />
+      <workItem from="1671541431818" duration="390000" />
+      <workItem from="1671542412244" duration="4996000" />
+      <workItem from="1671560124143" duration="391000" />
+      <workItem from="1671608029108" duration="1245000" />
+      <workItem from="1671693658011" duration="414000" />
+      <workItem from="1671723226535" duration="1152000" />
+      <workItem from="1672233956875" duration="530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
