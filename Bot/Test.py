@@ -15,7 +15,7 @@ with open("intents.json") as file:
 gateway = JavaGateway()  # connect to the JVM
 mytest = gateway.entry_point
 
-if os.path.exists("C:/Users/treme/PycharmProjects/DearDeer/data.pickle"):
+if os.path.exists("C:/PycharmProjects/DearDeer/data.pickle"):
     with open("data.pickle", "rb") as f:
         words, classes, training, output = pickle.load(f)
 else:
