@@ -82,7 +82,7 @@ net = tflearn.regression(net)
 
 model = tflearn.DNN(net, tensorboard_verbose=3)
 
-if os.path.exists("C:/Users/treme/PycharmProjects/DearDeer/my_model.tflearn.index"):
+if os.path.exists("C:/PycharmProjects/DearDeer/my_model.tflearn.index"):
     model.load('my_model.tflearn')
     model.fit(training, output, n_epoch=1000, batch_size=8, show_metric=True)
 else:
